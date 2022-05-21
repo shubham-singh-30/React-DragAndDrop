@@ -33,7 +33,7 @@ function App() {
           })
         );
       } catch (err) {
-        console.error("Server Error",err);
+        console.error("ServerError",err);
       }
     };
     let dataFromLocalStorage = localStorage.getItem("cards");
