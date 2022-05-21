@@ -16,5 +16,5 @@ You will also see any lint errors in the console.
 
 ## Packages Used 
     axios for fetching Api
-    react-dnd for drag and drop S
+    react-dnd for drag and drop 
     material ui for styling
